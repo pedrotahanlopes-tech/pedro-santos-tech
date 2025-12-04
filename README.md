@@ -1,6 +1,6 @@
 # Olá! Eu sou o Pedro 👋
 
-Sou estudante de Sistemas de Informação e PCD, iniciando minha jornada na área de **Cybersecurity**.
+Sou estudante de Ciência da Computação e PCD, iniciando minha jornada na área de **Cybersecurity**.
 
 🔐 O que você vai encontrar aqui:
 - Meus primeiros laboratórios de segurança (home lab)
